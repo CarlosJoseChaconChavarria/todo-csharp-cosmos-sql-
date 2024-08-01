@@ -52,7 +52,7 @@
     "hybridComputeMachines": "arcs-",
     "insightsActionGroups": "ag-",
     "insightsComponents": "appi-",
-    "keyVaultVaults": "kv0-",
+    "keyVaultVaults": "kv-",
     "kubernetesConnectedClusters": "arck",
     "kustoClusters": "dec",
     "kustoClustersDatabases": "dedb",
